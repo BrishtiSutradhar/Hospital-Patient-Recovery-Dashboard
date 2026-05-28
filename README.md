@@ -49,11 +49,6 @@ https://github.com/BrishtiSutradhar/Hospital-Patient-Recovery-Dashboard/blob/mai
 Hospital_Patient_Recovery_Overview_Dashboard.PNG
 https://github.com/BrishtiSutradhar/Hospital-Patient-Recovery-Dashboard/blob/main/Hospital_Patient_Recovery_Overview_Dashboard.PNG
 
-## 📂  Files Included
-```text
-├── Excel file with complete Hospital Patient Recovery Dashboard(original, with data)
-
-└── README.md                                 # Project documentation and summary
 
 ## 📁  Files Included
 
